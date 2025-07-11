@@ -1,0 +1,10 @@
+ID_Aluno,Nome,Turma,Forma_Pagamento,Mes_Referencia,Valor_Mensalidade,Pago,Data_Pagamento
+1001,Ana Souza,3ºA,Boleto,2025-03,750.0,Sim,2025-03-10
+1002,Lucas Oliveira,2ºB,Cartão,2025-03,720.0,Não,
+1003,Carla Lima,1ºC,Boleto,2025-03,700.0,Sim,2025-03-05
+1001,Ana Souza,3ºA,Boleto,2025-04,750.0,Sim,2025-04-10
+1002,Lucas Oliveira,2ºB,Cartão,2025-04,720.0,Não,
+1003,Carla Lima,1ºC,Boleto,2025-04,700.0,Não,
+1001,Ana Souza,3ºA,Boleto,2025-05,750.0,Não,
+1002,Lucas Oliveira,2ºB,Cartão,2025-05,720.0,Não,
+1003,Carla Lima,1ºC,Boleto,2025-05,700.0,Sim,2025-05-07
